@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+SRM+University+AP;Department+of+Computer+Science+%26+Engineering;%F0%9F%A7%A0+ML+Coursework+%E2%80%94+Academic+Semester+05;Week+01+%E2%80%94+NumPy+%7C+Week+02+%E2%80%94+Pandas;Week+03+%E2%80%94+Preprocessing+%7C+Week+04+%E2%80%94+Statistics+%26+EDA+%E2%9C%A8" alt="SRM University AP ML Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+SRM+University+AP;Department+of+Computer+Science+%26+Engineering;%F0%9F%A7%A0+ML+Coursework+%E2%80%94+Academic+Semester+05;Week+01+%E2%80%94+NumPy+%7C+Week+02+%E2%80%94+Pandas;Week+03+%E2%80%94+Preprocessing+%7C+Week+04+%E2%80%94+EDA;Week+05+%E2%80%94+Linear+%26+Polynomial+Regression+%E2%9C%A8" alt="SRM University AP ML Typing SVG" />
   </a>
 
   <br/><br/>
@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   </p>
@@ -45,6 +46,7 @@
 | **Week 02** | **[Week-02](Week-02/)** | Pandas Hands-On — Data Manipulation & Analysis |
 | **Week 03** | **[Week-03](Week-03/)** | Data Preprocessing Hands-On — Getting Data ML-Ready |
 | **Week 04** | **[Week-04](Week-04/)** | Statistics & EDA Hands-On — Understanding Your Data Before Modeling |
+| **Week 05** | **[Week-05](Week-05/)** | Linear & Polynomial Regression — From `sklearn` to From-Scratch |
 
 New weekly directories will be added as coursework modules are completed.
 
@@ -65,9 +67,12 @@ AdityaKumar_AP24110010333/
 ├── Week-03/
 │   ├── README.md
 │   └── Preprocessing_HandsOn_Student_Lab_Completed.ipynb
-└── Week-04/
+├── Week-04/
+│   ├── README.md
+│   └── Statistics_EDA_HandsOn_Student_Lab_Completed.ipynb
+└── Week-05/
     ├── README.md
-    └── Statistics_EDA_HandsOn_Student_Lab_Completed.ipynb
+    └── Linear_Poly_Regression_Teaching_Notebook.ipynb
 ```
 
 ---
@@ -80,6 +85,7 @@ AdityaKumar_AP24110010333/
 | 02 | Pandas Hands-On Lab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-02/Pandas_HandsOn_Student_Lab_Completed.ipynb) |
 | 03 | Data Preprocessing Hands-On Lab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-03/Preprocessing_HandsOn_Student_Lab_Completed.ipynb) |
 | 04 | Statistics & EDA Hands-On Lab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-04/Statistics_EDA_HandsOn_Student_Lab_Completed.ipynb) |
+| 05 | Linear & Polynomial Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-05/Linear_Poly_Regression_Teaching_Notebook.ipynb) |
 
 ---
 
