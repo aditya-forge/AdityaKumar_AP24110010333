@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+SRM+University+AP;Department+of+Computer+Science+%26+Engineering;%F0%9F%A7%A0+ML+Coursework+%E2%80%94+Academic+Semester+05;Week+01+%E2%80%94+NumPy+%7C+Week+02+%E2%80%94+Pandas;Week+03+%E2%80%94+Preprocessing+%7C+Week+04+%E2%80%94+EDA;Week+05+%E2%80%94+Linear+%26+Polynomial+Regression+%E2%9C%A8" alt="SRM University AP ML Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+SRM+University+AP;Department+of+Computer+Science+%26+Engineering;%F0%9F%A7%A0+ML+Coursework+%E2%80%94+Academic+Semester+05;Week+01+%E2%80%94+NumPy+%7C+Week+02+%E2%80%94+Pandas;Week+03+%E2%80%94+Preprocessing+%7C+Week+04+%E2%80%94+EDA;Week+05+%E2%80%94+Linear+%26+Poly+Regression+%7C+Week+06+%E2%80%94+Regularization+%E2%9C%A8" alt="SRM University AP ML Typing SVG" />
   </a>
 
   <br/><br/>
@@ -47,6 +47,7 @@
 | **Week 03** | **[Week-03](Week-03/)** | Data Preprocessing Hands-On — Getting Data ML-Ready |
 | **Week 04** | **[Week-04](Week-04/)** | Statistics & EDA Hands-On — Understanding Your Data Before Modeling |
 | **Week 05** | **[Week-05](Week-05/)** | Linear & Polynomial Regression — From `sklearn` to From-Scratch |
+| **Week 06** | **[Week-06](Week-06/)** | Polynomial Regression, Overfitting & Regularization |
 
 New weekly directories will be added as coursework modules are completed.
 
@@ -73,6 +74,9 @@ AdityaKumar_AP24110010333/
 └── Week-05/
     ├── README.md
     └── Linear_Poly_Regression_Teaching_Notebook.ipynb
+└── Week-06/
+    ├── README.md
+    └── Week6_Polynomial_Regularization_Student_Lab.ipynb
 ```
 
 ---
@@ -86,6 +90,7 @@ AdityaKumar_AP24110010333/
 | 03 | Data Preprocessing Hands-On Lab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-03/Preprocessing_HandsOn_Student_Lab_Completed.ipynb) |
 | 04 | Statistics & EDA Hands-On Lab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-04/Statistics_EDA_HandsOn_Student_Lab_Completed.ipynb) |
 | 05 | Linear & Polynomial Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-05/Linear_Poly_Regression_Teaching_Notebook.ipynb) |
+| 06 | Polynomial Reg & Regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-06/Week6_Polynomial_Regularization_Student_Lab.ipynb) |
 
 ---
 
