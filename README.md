@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+SRM+University+AP;Department+of+Computer+Science+%26+Engineering;%F0%9F%A7%A0+ML+Coursework+%E2%80%94+Academic+Semester+05;Week+01+%E2%80%94+NumPy+%7C+Week+02+%E2%80%94+Pandas;Week+03+%E2%80%94+Preprocessing+%7C+Week+04+%E2%80%94+EDA;Week+05+%E2%80%94+Linear+%26+Poly+Regression+%7C+Week+06+%E2%80%94+Regularization;Week+07+%E2%80%94+KNN+%26+Distance+Measures;Week+08+%E2%80%94+Decision+Trees+%E2%9C%A8" alt="SRM University AP ML Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+SRM+University+AP;Department+of+Computer+Science+%26+Engineering;%F0%9F%A7%A0+ML+Coursework+%E2%80%94+Academic+Semester+05;Week+01+%E2%80%94+NumPy+%7C+Week+02+%E2%80%94+Pandas;Week+03+%E2%80%94+Preprocessing+%7C+Week+04+%E2%80%94+EDA;Week+05+%E2%80%94+Linear+%26+Poly+Regression+%7C+Week+06+%E2%80%94+Regularization;Week+07+%E2%80%94+KNN+%7C+Week+08+%E2%80%94+Decision+Trees;Week+09+%E2%80%94+PCA+%E2%9C%A8" alt="SRM University AP ML Typing SVG" />
   </a>
 
   <br/><br/>
@@ -50,6 +50,7 @@
 | **Week 06** | **[Week-06](Week-06/)** | Polynomial Regression, Overfitting & Regularization |
 | **Week 07** | **[Week-07](Week-07/)** | K-Nearest Neighbors (KNN) & Distance Measures |
 | **Week 08** | **[Week-08](Week-08/)** | Decision Trees Lab |
+| **Week 09** | **[Week-09](Week-09/)** | Principal Component Analysis (PCA) |
 
 New weekly directories will be added as coursework modules are completed.
 
@@ -82,9 +83,12 @@ AdityaKumar_AP24110010333/
 ├── Week-07/
 │   ├── README.md
 │   └── Week7_KNN_Distance_Measures_Student_Lab_Filled.ipynb
-└── Week-08/
+├── Week-08/
+│   ├── README.md
+│   └── Week8_Decision_Tree_Student_Lab_Completed.ipynb
+└── Week-09/
     ├── README.md
-    └── Week8_Decision_Tree_Student_Lab_Completed.ipynb
+    └── Week9_PCA_Student_Lab.ipynb
 ```
 
 ---
@@ -101,6 +105,7 @@ AdityaKumar_AP24110010333/
 | 06 | Polynomial Reg & Regularization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-06/Week6_Polynomial_Regularization_Student_Lab.ipynb) |
 | 07 | KNN & Distance Measures | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-07/Week7_KNN_Distance_Measures_Student_Lab_Filled.ipynb) |
 | 08 | Decision Trees Lab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-08/Week8_Decision_Tree_Student_Lab_Completed.ipynb) |
+| 09 | PCA Lab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aditya-forge/AdityaKumar_AP24110010333/blob/main/Week-09/Week9_PCA_Student_Lab.ipynb) |
 
 ---
 
